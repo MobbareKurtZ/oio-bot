@@ -1,0 +1,1 @@
+ruby C:\Users\hannes.skoog\Documents\insta\insta_bot.rb
